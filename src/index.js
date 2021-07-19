@@ -1,1 +1,1 @@
-const a = 1; // test
+import "./styles.css";

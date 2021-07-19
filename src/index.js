@@ -7,7 +7,7 @@ const onClickAddTodo = () => {
 
   // divタグ生成
   const div = document.createElement("div");
-  alert(inputText);
+  alert(div);
 };
 
 document
